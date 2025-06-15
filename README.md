@@ -46,20 +46,20 @@ A full-featured job portal web application built with the MERN stack (MongoDB, E
 git clone https://github.com/yourusername/mern-job-portal.git
 cd mern-job-portal
 ```
-### Backend Setup 
+### 2. Backend Setup 
 ```bash
 cd server
 npm install
 cp .env.example .env  # Update MongoDB URI, JWT secret, etc.
 npm run dev
 ```
-### Frontend Setup
+### 3. Frontend Setup
 ```bash
 cd client
 npm install
 npm start
 ```
-### Environment Variables
+### 4. Environment Variables
 ```bash
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
