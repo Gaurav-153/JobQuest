@@ -1,4 +1,4 @@
-# MERN Stack Job Portal Web App
+# 🧑‍💼 MERN Stack Job Portal Web App
 
 A full-featured job portal web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This platform connects job seekers with employers, allowing users to post and apply for jobs, manage profiles, and more.
 
