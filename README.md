@@ -48,16 +48,16 @@ cd mern-job-portal
 ```
 ### 2. Backend Setup 
 ```bash
-cd server
+cd backend
 npm install
 cp .env.example .env  # Update MongoDB URI, JWT secret, etc.
-npm run dev
+node index.js
 ```
 ### 3. Frontend Setup
 ```bash
-cd client
+cd frontend
 npm install
-npm start
+npm run dev
 ```
 ### 4. Environment Variables
 ```bash
