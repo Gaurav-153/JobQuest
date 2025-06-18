@@ -43,7 +43,7 @@ A full-featured job portal web application built with the MERN stack (MongoDB, E
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-job-portal.git
+git clone https://github.com/Gaurav-153/mern-job-portal.git
 cd mern-job-portal
 ```
 ### 2. Backend Setup 
